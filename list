@@ -1,5 +1,5 @@
 [
-    {"firstName":"John", "lastName":"Doe"},
-    {"firstName":"Anna", "lastName":"Smith"},
-    {"firstName":"Peter", "lastName":"Jones"}
+    {"firstName":"John", "lastName":"https://lh3.googleusercontent.com/mkiGQZzRlBilglPj4TCxa3pHExCfwgugN4FKrJWZ4OJkBitBrPULxhFhyh_nZDTTua-z=w300-rw"},
+    {"firstName":"Anna", "lastName":"https://lh3.googleusercontent.com/mkiGQZzRlBilglPj4TCxa3pHExCfwgugN4FKrJWZ4OJkBitBrPULxhFhyh_nZDTTua-z=w300-rw"},
+    {"firstName":"Peter", "lastName":"https://lh3.googleusercontent.com/mkiGQZzRlBilglPj4TCxa3pHExCfwgugN4FKrJWZ4OJkBitBrPULxhFhyh_nZDTTua-z=w300-rw"}
 ]
