@@ -1,7 +1,17 @@
 [
-    {"title":"DNA RTO News","details":"http://www.dnaindia.com/topic/rto"},
-     {"title":"TOI Daily News","details":"http://timesofindia.indiatimes.com/topic/RTO"},
-     {"title":"Daily RTO News","details":"http://auto.economictimes.indiatimes.com/tag/rto"},
-      {"title":"RTO news In hindi","details":"https://khabar.ndtv.com/topic/rto/news"}
-  
+    {"title":"Voter ID Card Status","details":"http://www.nvsp.in/Forms/Forms/trackstatus"},
+    {"title":"Search Your Name in Electoral Roll","details":"http://electoralsearch.in/"},
+    {"title":"Apply for Registration of New Voter","details":"http://www.nvsp.in/Forms/Forms/form6"},
+    {"title":"Apply for Registration of Overseas Voter","details":"http://www.nvsp.in/Forms/Forms/form6A"},
+    {"title":"Correction of Entries Electoral Roll","details":"http://www.nvsp.in/Forms/Forms/form8"},
+    {"title":"Know your Booth,AC and PC","details":"http://electoralsearch.in/"},
+    {"title":"Link to State UT CEO","details":"http://eci.nic.in/eci_main1/Links.aspx"},
+    {"title":"Know your BLO,ERO and DEO","details":"http://electoralsearch.in/"},
+    {"title":"Voter Education Channel","details":"http://eci.nic.in/eci_main1/sveep.aspx"},
+    {"title":"Polling Process","details":"http://eci.nic.in/eci_main1/tm.aspx"},
+    {"title":"Electronic Voting Machines","details":"http://eci.nic.in/eci_main1/evm1.aspx"},
+    {"title":"Complaint/Suggestions","details":"http://eci-citizenservices.nic.in/"},
+    {"title":"Voter List","details":"http://eci.nic.in/eci_main1/Linkto_erollpdf.aspx"},
+    {"title":"Help","details":"http://electoralsearch.in/instructions.html"}
+   
    ]
